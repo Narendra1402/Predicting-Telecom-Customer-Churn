@@ -4,21 +4,25 @@
 In the dynamic world of telecommunications, retaining customers is as crucial as acquiring new ones. I'm thrilled to present my latest data analytics project where I dive deep into predicting telecom customer churn using some powerful tools and techniques. Here's a sneak peek:
 
 🔍 Key Features:
+
 1.Comprehensive Data Analysis: Delved into customer data to uncover patterns and trends that indicate potential churn.
 2.Customer Segmentation: Identified key segments of customers who are at high risk of leaving.
 3.Predictive Modeling: Built models to predict the likelihood of customer churn with high accuracy.
 
 Interactive Elements: 
+
 1.Interactive dashboards in Power BI that allow users to filter and drill down into specific customer segments.
 2.Visualizations that highlight key metrics like churn rate, customer lifetime value, and more.
 
 📈 How I Used These Tools:
+
 1.Excel: Performed data cleaning, preprocessing, and exploratory data analysis to understand the dataset.
 2.Power BI: Developed interactive dashboards that provide a comprehensive view of customer behavior and churn predictors.
 3.Microsoft PowerPoint: Created a presentation to communicate findings and actionable insights effectively.
 4.Canva: Designed infographics and visual summaries to make the data more digestible and engaging.
 
  🛠️ Approach:
+ 
 1. Data Collection: Gathered customer data from various sources.
 2. Data Cleaning: Ensured data quality by handling missing values and outliers.
 3. Exploratory Data Analysis (EDA): Identified trends, patterns, and correlations in the data.
